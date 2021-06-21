@@ -1,6 +1,6 @@
 ### Hi there, I'm Pssgo 👋
 
-- 🔭 I’m currently working on company vipkid
+- 🔭 I’m currently working on company tal
 - 🌱 I’m currently learning electron, golang and typescript
 - 💬 Ask me about anything [here](https://github.com/pssgo)
 - 📫 How to reach me: wechat `hero-pssgo`
